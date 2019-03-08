@@ -1,0 +1,9 @@
+unit Click_Thunder_config;
+
+uses Click_Thunder_types;
+
+const
+    _THUNDER_SPI_CFG : array[7] of uint32_t = (_SPI_MASTER, _SPI_8_BIT, 80, _SPI_SS_DISABLE, _SPI_DATA_SAMPLE_MIDDLE, _SPI_CLK_IDLE_HIGH, _SPI_IDLE_2_ACTIVE); 
+    _THUNDER_I2C_CFG : array[1] of uint32_t = (100000); 
+    
+end.

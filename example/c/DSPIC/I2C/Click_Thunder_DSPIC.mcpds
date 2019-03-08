@@ -1,0 +1,79 @@
+[DEVICE]
+Name=P33FJ256GP710A
+Clock=8000000
+[BUILD_TYPE]
+Value=0
+
+[MEMORY_MODEL]
+Value=0
+[ACTIVE_TAB]
+Value=C:\Users\nemanja.medakovic\Documents\Mikroelektronika\mikroC PRO for dsPIC\Packages\mikroBUS Board Definition API\Uses\__mm_dsPIC33_GPIO.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=2000
+[EEPROM_DEFINITION]
+Value=
+[FILES]
+File0=Click_Thunder_DSPIC.c
+File1=..\..\..\..\library\__thunder_Driver.c
+Count=2
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+File0=Click_Thunder_DSPIC.c
+File1=Click_Thunder_config.h
+File2=..\..\..\..\library\__thunder_Driver.c
+File3=..\..\..\..\library\__thunder_driver.h
+File4=.\C:\Users\nemanja.medakovic\Documents\Mikroelektronika\mikroC PRO for dsPIC\Packages\mikroBUS Board Definition API\Uses\mikromedia_shield_dsPIC33.c
+File5=.\C:\Users\nemanja.medakovic\Documents\Mikroelektronika\mikroC PRO for dsPIC\Packages\mikroBUS Board Definition API\Uses\__mm_dsPIC33_GPIO.c
+Count=6
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Path0=..\..\..\..\library\HAL\
+Path1=..\..\..\..\library\
+Path2=C:\Users\nemanja.medakovic\Documents\Mikroelektronika\mikroC PRO for dsPIC\Packages\mikroBUS Board Definition API\Uses\
+Count=3
+[HEADER_PATH]
+Path0=..\..\..\..\library\
+Path1=..\..\..\..\library\HAL\
+Path2=C:\Users\nemanja.medakovic\Documents\Mikroelektronika\mikroC PRO for dsPIC\Packages\mikroBUS Board Definition API\Uses\
+Count=3
+[HEADERS]
+File0=..\..\..\..\library\__thunder_driver.h
+File1=Click_Thunder_config.h
+File2=Click_Thunder_types.h
+Count=3
+[PLDS]
+File0=Click_Thunder.pld
+Count=1
+[Useses]
+File0=Conversions
+File1=C_String
+File2=I2C
+File3=SPI
+File4=UART
+File5=mikromedia_shield_dsPIC33
+Count=6
+[EXPANDED_NODES]
+0=Click_Thunder_DSPIC.mcpds
+1=Sources
+4=Header Files
+9=Project Level Defines
+Count=4
+[LIB_EXPANDED_NODES]
+0=mikroE Libraries
+1=System Libraries
+870=Additional Libraries
+1971=mikroBUS Board Definition API
+Count=4
